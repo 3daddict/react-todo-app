@@ -15,6 +15,7 @@
     "url": "https://github.com/3daddict/react-todo-app.git"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
     "materialize-css": "^1.0.0",
     "react": "^16.4.0",
